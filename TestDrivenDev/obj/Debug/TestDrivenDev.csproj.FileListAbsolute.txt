@@ -1,0 +1,10 @@
+G:\lukytesty\TestDrivenDev\bin\Debug\TestDrivenDev.exe.config
+G:\lukytesty\TestDrivenDev\bin\Debug\TestDrivenDev.exe
+G:\lukytesty\TestDrivenDev\bin\Debug\TestDrivenDev.pdb
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.csproj.AssemblyReference.cache
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.Form1.resources
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.Properties.Resources.resources
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.csproj.GenerateResource.cache
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.csproj.CoreCompileInputs.cache
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.exe
+G:\lukytesty\TestDrivenDev\obj\Debug\TestDrivenDev.pdb

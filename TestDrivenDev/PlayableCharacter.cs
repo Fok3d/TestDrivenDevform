@@ -70,7 +70,7 @@ namespace TestDrivenDev
         public Oblicej oblicej;
         public Vlasy vlasy;
         public BarvaVlasu barvaVlasu ;
-        public int XP;
+        public int level = 1;
 
         public string Specializace { get { return specializace; } set { specializace = value; } }
         public Hrac(string jmeno, string specializace) : base(jmeno)
